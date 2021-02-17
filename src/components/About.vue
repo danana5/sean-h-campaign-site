@@ -5,7 +5,7 @@
         <v-divider/>
         <v-card flat max-width="900" class="mx-auto" color="transparent">
           <div class="body-1 blue-grey--text text--darken-1">Hello! I am Sean, I am a 21 year old lad from Swords in third year Computer Science at Trinity College Dublin. 
-              I've learned so much and I have gained many unique experiences but I've also been fortunate enough to meet many great people and characters whom I am lucky to 
+              I've learned so much and I have gained many unique experiences but I've also been fortunate enough to meet many great pe++ople and characters whom I am lucky to 
               call friends.<br><br>I am a front-end developer but with a strong interest also with full stack development. I have experience using React.js and Vue.js 
               aswell as Python, Java and C.<br><br>Anyways, I played semi-proffesional football for Drogheda United in the League of Ireland. I am obsessed with music and several 
               artists such as; Flume, deadmau5, 
