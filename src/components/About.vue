@@ -34,6 +34,7 @@ export default {
       return {
           items: [
             {src: "slidetackle.jpg"},
+            {src: "team.jpg"}
           ],
       }
   },
