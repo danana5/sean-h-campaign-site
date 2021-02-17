@@ -1,19 +1,28 @@
 <template>
     <v-app>
       <div>
-            <v-parallax
+            <v-card
                 dark
-                src="./assets/team3.jpg"
+                color="#ffa5ac"
+                flat
+                height="400"
             >
-                <v-row
+                <v-container fill-height>
+                    <v-row
                 align="center"
+                justify="center"
                 >
-                  <v-col class="text-center justify-end">
+                  <v-card
+                  flat
+                  class="text-center"
+                  color="blue darken-4"
+                  >
                       <h1 class="display-1 font-weight-thin mb-4">Vote Sean Hallahan #1</h1>
                       <h4 class="subheading mb-4">For Clubs and Societies</h4>
-                  </v-col>
+                  </v-card>
                 </v-row>
-            </v-parallax>          
+                </v-container>
+            </v-card>          
         <v-flex id="About">
             <About/>
         </v-flex>
