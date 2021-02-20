@@ -36,7 +36,7 @@ export default {
                 },
                 {
                     name: "Snapchat",
-                    value: "danana_5",
+                    value: "halooooooo",
                     link: "https://www.snapchat.com/l/en-gb/",
                     icon: "mdi-snapchat"
                 },
