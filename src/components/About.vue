@@ -17,6 +17,10 @@
                 </v-carousel>
             </div>
         </v-card>
+        <v-row class="mt-5">
+            <v-img src="../assets/posterA.png" max-height="1000" max-width="600" class="mx-auto"></v-img>
+            <v-img src="../assets/posterB.png" max-height="1000" max-width="600" class="mx-auto"></v-img>
+        </v-row>
     </v-container>
 </div>
 </template>
