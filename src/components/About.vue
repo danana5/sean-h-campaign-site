@@ -1,7 +1,7 @@
 <template>
 <div style="background: #1A237E">
     <v-container class="text-center">
-        <h1 class="display-2 font-weight-thin red--text text--lighten-3">Who I am and Why am I Running?</h1>
+        <h1 class="display-2 font-weight-thin red--text text--lighten-3">Who am I? Why am I Running?</h1>
         <v-divider dark />
         <v-card flat max-width="900" class="mx-auto mt-3" color="red lighten-3">
             <div class="body-1 white--text pa-4">Hey my name is Sean Hallahan, I am 20 years old and I am in my third year of
@@ -24,7 +24,7 @@
                 and to contact me on any of the outlets bellow with any concerns or queries.<br><br>#VoteH
             </div>
         </v-card>
-        <v-card max-width="1100" color="transparent" flat tile class="mx-auto mt-3">
+        <v-card max-width="1100" color="transparent" flat tile class="mx-auto mt-8">
             <v-carousel cycle interval=5000 height="600">
                 <v-carousel-item v-for="(item,i) in items" :key="i" :src="logo(item.src)"></v-carousel-item>
             </v-carousel>
@@ -32,6 +32,8 @@
         <v-row class="mt-5">
             <v-container>
                 <v-img src="../assets/posterA.png" max-height="1000" max-width="600" class="mx-auto" position="center center"></v-img>
+            </v-container>
+            <v-container>
                 <v-img src="../assets/posterB.png" max-height="1000" max-width="600" class="mx-auto mt-5" position="center center"></v-img>
             </v-container>
         </v-row>
